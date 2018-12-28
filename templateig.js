@@ -31,3 +31,5 @@ let c = "console.log(c)";
 eval(a); // prints "a"
 eval(b); // prints "b"
 eval(c); // prints "c"
+
+// AMAZING ISNT IT?
