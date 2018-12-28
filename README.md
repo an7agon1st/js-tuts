@@ -6,6 +6,6 @@ for our College fest IEEE Xtacy.
 Team Namak
 -Omair Khan
 -Salman Basheer
--Ali Samar
+-Alisamar
 -Tanzilur Rahman
--Daniyaal Abbasi
+-Daniyal Abbasi
